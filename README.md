@@ -5,7 +5,7 @@ This repository contains a project aimed at forecasting energy consumption at bu
 
 ## Project Roadmap
 - [x] **Project Setup** (repository & environment setup)
-- [ ] **Data Collection & Exploration**
+- [x] **Data Collection & Exploration**
 - [ ] **Data Preprocessing & Feature Engineering**
 - [ ] **Initial Baseline Modeling (ARIMA, Prophet)**
 - [ ] **Advanced Modeling (LSTM, Transformers)**
